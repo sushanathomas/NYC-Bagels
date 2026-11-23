@@ -1,6 +1,6 @@
 # NYC Bagels
 
-I created the New York Bagels website as part of my software engineering coursework.
+NYC Bagels is a coursework storefront website for Delancey Bagels in New York City. It presents bagel sandwiches and prices, introduces the shop’s coffee, and helps visitors find its address and opening hours.
 
 ## Site-Link & Project Preview: 
 
@@ -15,12 +15,9 @@ https://sushanathomas.github.io/NYC-Bagels/
 
 ## Features
 
-- Navigation
-- Mobile-friendly layout
-
-## Live Website
-
-Coming soon!
+- Bagel sandwich menu with prices and descriptions
+- Coffee section describing the shop’s offerings
+- Shop address, phone number, and opening hours
 
 ## What I Learned
 
